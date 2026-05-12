@@ -1,0 +1,1852 @@
+{
+  "generated": "2026-05-12 07:54 UTC",
+  "source": "binance",
+  "min_adv": 1000000,
+  "total": 229,
+  "by_tier": {
+    "tier_1": [
+      "BTC",
+      "ETH",
+      "BNB",
+      "U",
+      "WBETH"
+    ],
+    "tier_2": [
+      "SOL",
+      "XRP",
+      "DOGE",
+      "RLUSD",
+      "ADA",
+      "BNSOL"
+    ],
+    "tier_3": [
+      "SUI",
+      "LINK",
+      "NEAR",
+      "LTC",
+      "AAVE",
+      "AVAX",
+      "HBAR",
+      "WLFI",
+      "USDS"
+    ],
+    "tier_4": [
+      "TON",
+      "PEPE",
+      "TAO",
+      "TRX",
+      "ONDO",
+      "CRV",
+      "LDO",
+      "ENA",
+      "PENDLE",
+      "UNI",
+      "PENGU",
+      "XLM",
+      "FET",
+      "FIL",
+      "BCH",
+      "ATOM",
+      "VIRTUAL",
+      "SHIB",
+      "ARB",
+      "RENDER",
+      "DOT",
+      "BONK",
+      "OP",
+      "POL",
+      "ALGO",
+      "ETC",
+      "CAKE",
+      "ETHFI",
+      "WBTC",
+      "ENS"
+    ],
+    "tier_5": [
+      "CHIP",
+      "ZEC",
+      "SAGA",
+      "OSMO",
+      "ICP",
+      "SEI",
+      "FF",
+      "GTC",
+      "PARTI",
+      "LUNC",
+      "KITE",
+      "INJ",
+      "RAD",
+      "\u5e01\u5b89\u4eba\u751f",
+      "ASTER",
+      "WLD",
+      "PUMP",
+      "DOGS",
+      "SAHARA",
+      "BANANAS31",
+      "APT",
+      "DASH",
+      "TIA",
+      "XPL",
+      "SAPIEN",
+      "GALA",
+      "MBL",
+      "JUP",
+      "ORDI",
+      "TRUMP",
+      "BIO",
+      "MOVE",
+      "NOT",
+      "MEGA",
+      "SPK",
+      "ROBO",
+      "GIGGLE",
+      "LAYER",
+      "ZBT",
+      "CHZ",
+      "DYM",
+      "RUNE",
+      "GMT",
+      "CFG",
+      "PSG",
+      "TWT",
+      "MOVR",
+      "AR",
+      "UMA",
+      "ZRO",
+      "W",
+      "MANTA",
+      "C",
+      "JTO",
+      "ZEN",
+      "THETA",
+      "S",
+      "REZ",
+      "FLOKI",
+      "RIF",
+      "KAT",
+      "NIGHT",
+      "PLUME",
+      "IOTA",
+      "BERA",
+      "PIXEL",
+      "OG",
+      "TST",
+      "ENJ",
+      "NEIRO",
+      "STRK",
+      "EDU",
+      "API3",
+      "JASMY",
+      "ORCA",
+      "EUL",
+      "WIF",
+      "SKY",
+      "JST",
+      "VET",
+      "TNSR",
+      "BABY",
+      "CVX",
+      "HUMA",
+      "AUDIO",
+      "GUN",
+      "ZK",
+      "YGG",
+      "MUBARAK",
+      "VANA",
+      "AMP",
+      "COMP",
+      "PNUT",
+      "GRT",
+      "SAND",
+      "BANK",
+      "SXT",
+      "ZAMA",
+      "NIL",
+      "TREE",
+      "EIGEN",
+      "OPEN",
+      "HEMI",
+      "WAL",
+      "ME",
+      "HOME",
+      "HOLO",
+      "MANTRA",
+      "ALCX",
+      "ARPA",
+      "IO",
+      "BEL",
+      "STX",
+      "KMNO",
+      "NEO",
+      "RARE",
+      "SUSHI",
+      "EURI",
+      "RAY",
+      "SYS",
+      "CITY",
+      "SOLV",
+      "BOME",
+      "BROCCOLI714",
+      "LINEA",
+      "D",
+      "BLUR",
+      "AXS",
+      "CYBER",
+      "XAI",
+      "BANANA",
+      "BAR",
+      "KAITO",
+      "SOPH",
+      "ASTR",
+      "WCT",
+      "QTUM",
+      "FORM",
+      "CETUS",
+      "MORPHO",
+      "BREV",
+      "POLYX",
+      "LUNA",
+      "EDEN",
+      "ROSE",
+      "CFX",
+      "ALLO",
+      "USUAL",
+      "2Z",
+      "PHA",
+      "SYRUP",
+      "XEC",
+      "ANKR",
+      "NMR",
+      "ALT",
+      "DYDX",
+      "0G",
+      "SSV",
+      "USTC",
+      "AI",
+      "MITO",
+      "PHB",
+      "SCR",
+      "THE",
+      "ARKM",
+      "ACE",
+      "OPN",
+      "DEXE",
+      "ACH",
+      "RONIN",
+      "NOM",
+      "LPT",
+      "RESOLV",
+      "PYTH",
+      "PYR",
+      "APE",
+      "AIXBT",
+      "AVNT",
+      "MBOX"
+    ]
+  },
+  "assets": [
+    {
+      "symbol": "BTC",
+      "tier": 1,
+      "collateral_rate": 0.95,
+      "volume_24h": 963180022.95,
+      "price": 80938.93
+    },
+    {
+      "symbol": "ETH",
+      "tier": 1,
+      "collateral_rate": 0.95,
+      "volume_24h": 517514670.87,
+      "price": 2298.99
+    },
+    {
+      "symbol": "BNB",
+      "tier": 1,
+      "collateral_rate": 0.95,
+      "volume_24h": 119222215.84,
+      "price": 658.98
+    },
+    {
+      "symbol": "U",
+      "tier": 1,
+      "collateral_rate": 0.95,
+      "volume_24h": 23836958.68,
+      "price": 1.0003
+    },
+    {
+      "symbol": "WBETH",
+      "tier": 1,
+      "collateral_rate": 0.95,
+      "volume_24h": 1310465.41,
+      "price": 2518.99
+    },
+    {
+      "symbol": "SOL",
+      "tier": 2,
+      "collateral_rate": 0.85,
+      "volume_24h": 278618788.98,
+      "price": 96.13
+    },
+    {
+      "symbol": "XRP",
+      "tier": 2,
+      "collateral_rate": 0.85,
+      "volume_24h": 149496383.89,
+      "price": 1.4633
+    },
+    {
+      "symbol": "DOGE",
+      "tier": 2,
+      "collateral_rate": 0.85,
+      "volume_24h": 92273931.72,
+      "price": 0.11009
+    },
+    {
+      "symbol": "RLUSD",
+      "tier": 2,
+      "collateral_rate": 0.9,
+      "volume_24h": 44899156.06,
+      "price": 1.0004
+    },
+    {
+      "symbol": "ADA",
+      "tier": 2,
+      "collateral_rate": 0.9,
+      "volume_24h": 25040059.95,
+      "price": 0.2771
+    },
+    {
+      "symbol": "BNSOL",
+      "tier": 2,
+      "collateral_rate": 0.85,
+      "volume_24h": 1164688.56,
+      "price": 106.9
+    },
+    {
+      "symbol": "SUI",
+      "tier": 3,
+      "collateral_rate": 0.7,
+      "volume_24h": 110549906.56,
+      "price": 1.2813
+    },
+    {
+      "symbol": "LINK",
+      "tier": 3,
+      "collateral_rate": 0.7,
+      "volume_24h": 27307429.18,
+      "price": 10.45
+    },
+    {
+      "symbol": "NEAR",
+      "tier": 3,
+      "collateral_rate": 0.7,
+      "volume_24h": 21590220.32,
+      "price": 1.582
+    },
+    {
+      "symbol": "LTC",
+      "tier": 3,
+      "collateral_rate": 0.7,
+      "volume_24h": 18603495.19,
+      "price": 58.47
+    },
+    {
+      "symbol": "AAVE",
+      "tier": 3,
+      "collateral_rate": 0.7,
+      "volume_24h": 18258372.75,
+      "price": 99.85
+    },
+    {
+      "symbol": "AVAX",
+      "tier": 3,
+      "collateral_rate": 0.7,
+      "volume_24h": 16592724.26,
+      "price": 10.02
+    },
+    {
+      "symbol": "HBAR",
+      "tier": 3,
+      "collateral_rate": 0.7,
+      "volume_24h": 13509802.15,
+      "price": 0.09585
+    },
+    {
+      "symbol": "WLFI",
+      "tier": 3,
+      "collateral_rate": 0.7,
+      "volume_24h": 9194608.19,
+      "price": 0.0666
+    },
+    {
+      "symbol": "USDS",
+      "tier": 3,
+      "collateral_rate": 0.75,
+      "volume_24h": 1334984.27,
+      "price": 1.0001
+    },
+    {
+      "symbol": "TON",
+      "tier": 4,
+      "collateral_rate": 0.6,
+      "volume_24h": 73638759.62,
+      "price": 2.447
+    },
+    {
+      "symbol": "PEPE",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 38505634.89,
+      "price": 4e-06
+    },
+    {
+      "symbol": "TAO",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 38220747.37,
+      "price": 319.9
+    },
+    {
+      "symbol": "TRX",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 37904034.41,
+      "price": 0.3493
+    },
+    {
+      "symbol": "ONDO",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 31239620.25,
+      "price": 0.4235
+    },
+    {
+      "symbol": "CRV",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 18676373.85,
+      "price": 0.2884
+    },
+    {
+      "symbol": "LDO",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 17797940.52,
+      "price": 0.4051
+    },
+    {
+      "symbol": "ENA",
+      "tier": 4,
+      "collateral_rate": 0.6,
+      "volume_24h": 17378213.46,
+      "price": 0.1264
+    },
+    {
+      "symbol": "PENDLE",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 17296642.11,
+      "price": 2.032
+    },
+    {
+      "symbol": "UNI",
+      "tier": 4,
+      "collateral_rate": 0.6,
+      "volume_24h": 13022345.63,
+      "price": 3.834
+    },
+    {
+      "symbol": "PENGU",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 12428144.24,
+      "price": 0.010095
+    },
+    {
+      "symbol": "XLM",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 10686481.48,
+      "price": 0.1658
+    },
+    {
+      "symbol": "FET",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 10226558.08,
+      "price": 0.2317
+    },
+    {
+      "symbol": "FIL",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 10123055.52,
+      "price": 1.111
+    },
+    {
+      "symbol": "BCH",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 9267956.54,
+      "price": 448.5
+    },
+    {
+      "symbol": "ATOM",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 7493772.55,
+      "price": 2.056
+    },
+    {
+      "symbol": "VIRTUAL",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 6791674.82,
+      "price": 0.8393
+    },
+    {
+      "symbol": "SHIB",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 6769640.29,
+      "price": 7e-06
+    },
+    {
+      "symbol": "ARB",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 6214483.24,
+      "price": 0.139
+    },
+    {
+      "symbol": "RENDER",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 6207450.17,
+      "price": 1.941
+    },
+    {
+      "symbol": "DOT",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 6187788.6,
+      "price": 1.359
+    },
+    {
+      "symbol": "BONK",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 6000759.18,
+      "price": 7e-06
+    },
+    {
+      "symbol": "OP",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 4364310.44,
+      "price": 0.1567
+    },
+    {
+      "symbol": "POL",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 4097413.97,
+      "price": 0.1019
+    },
+    {
+      "symbol": "ALGO",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 3875976.09,
+      "price": 0.1265
+    },
+    {
+      "symbol": "ETC",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 3283957.48,
+      "price": 9.6
+    },
+    {
+      "symbol": "CAKE",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 3065400.2,
+      "price": 1.557
+    },
+    {
+      "symbol": "ETHFI",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 2259002.52,
+      "price": 0.447
+    },
+    {
+      "symbol": "WBTC",
+      "tier": 4,
+      "collateral_rate": 0.6,
+      "volume_24h": 2256284.69,
+      "price": 80729.04
+    },
+    {
+      "symbol": "ENS",
+      "tier": 4,
+      "collateral_rate": 0.5,
+      "volume_24h": 2044979.41,
+      "price": 7.21
+    },
+    {
+      "symbol": "CHIP",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 204462933.8,
+      "price": 0.06335
+    },
+    {
+      "symbol": "ZEC",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 74980842.41,
+      "price": 562.81
+    },
+    {
+      "symbol": "SAGA",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 56659282.4,
+      "price": 0.035
+    },
+    {
+      "symbol": "OSMO",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 35058208.83,
+      "price": 0.0698
+    },
+    {
+      "symbol": "ICP",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 19509714.83,
+      "price": 3.298
+    },
+    {
+      "symbol": "SEI",
+      "tier": 5,
+      "collateral_rate": 0.4,
+      "volume_24h": 18055402.59,
+      "price": 0.07255
+    },
+    {
+      "symbol": "FF",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 17743104.53,
+      "price": 0.07188
+    },
+    {
+      "symbol": "GTC",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 16941781.39,
+      "price": 0.15
+    },
+    {
+      "symbol": "PARTI",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 16378550.34,
+      "price": 0.0656
+    },
+    {
+      "symbol": "LUNC",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 16025942.74,
+      "price": 0.000103
+    },
+    {
+      "symbol": "KITE",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 16014918.8,
+      "price": 0.1838
+    },
+    {
+      "symbol": "INJ",
+      "tier": 5,
+      "collateral_rate": 0.4,
+      "volume_24h": 15981756.11,
+      "price": 4.729
+    },
+    {
+      "symbol": "RAD",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 14394208.98,
+      "price": 0.308
+    },
+    {
+      "symbol": "\u5e01\u5b89\u4eba\u751f",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 12457741.05,
+      "price": 0.3803
+    },
+    {
+      "symbol": "ASTER",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 11775985.63,
+      "price": 0.687
+    },
+    {
+      "symbol": "WLD",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 10554487.73,
+      "price": 0.2774
+    },
+    {
+      "symbol": "PUMP",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 10503175.18,
+      "price": 0.002042
+    },
+    {
+      "symbol": "DOGS",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 9525818.68,
+      "price": 6.9e-05
+    },
+    {
+      "symbol": "SAHARA",
+      "tier": 5,
+      "collateral_rate": 0.25,
+      "volume_24h": 9144923.81,
+      "price": 0.04309
+    },
+    {
+      "symbol": "BANANAS31",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 8899057.98,
+      "price": 0.014299
+    },
+    {
+      "symbol": "APT",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 8736869.69,
+      "price": 1.112
+    },
+    {
+      "symbol": "DASH",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 8093219.79,
+      "price": 46.24
+    },
+    {
+      "symbol": "TIA",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 8004688.1,
+      "price": 0.4539
+    },
+    {
+      "symbol": "XPL",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 7673773.77,
+      "price": 0.0993
+    },
+    {
+      "symbol": "SAPIEN",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 7563839.97,
+      "price": 0.1396
+    },
+    {
+      "symbol": "GALA",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 7186124.68,
+      "price": 0.00386
+    },
+    {
+      "symbol": "MBL",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 7147456.22,
+      "price": 0.001033
+    },
+    {
+      "symbol": "JUP",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 7144204.25,
+      "price": 0.2419
+    },
+    {
+      "symbol": "ORDI",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 7118110.07,
+      "price": 4.797
+    },
+    {
+      "symbol": "TRUMP",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 7094275.76,
+      "price": 2.384
+    },
+    {
+      "symbol": "BIO",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 6900776.54,
+      "price": 0.0474
+    },
+    {
+      "symbol": "MOVE",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 6769253.29,
+      "price": 0.0201
+    },
+    {
+      "symbol": "NOT",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 6499766.4,
+      "price": 0.000569
+    },
+    {
+      "symbol": "MEGA",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 6370387.71,
+      "price": 0.11572
+    },
+    {
+      "symbol": "SPK",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 6268145.28,
+      "price": 0.033928
+    },
+    {
+      "symbol": "ROBO",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 6164287.93,
+      "price": 0.02265
+    },
+    {
+      "symbol": "GIGGLE",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 5958465.62,
+      "price": 35.92
+    },
+    {
+      "symbol": "LAYER",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 5900147.34,
+      "price": 0.1146
+    },
+    {
+      "symbol": "ZBT",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 5432762.15,
+      "price": 0.1559
+    },
+    {
+      "symbol": "CHZ",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 5420343.19,
+      "price": 0.04381
+    },
+    {
+      "symbol": "DYM",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 5342839.95,
+      "price": 0.0265
+    },
+    {
+      "symbol": "RUNE",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 5007913.42,
+      "price": 0.61
+    },
+    {
+      "symbol": "GMT",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 4839302.95,
+      "price": 0.01336
+    },
+    {
+      "symbol": "CFG",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 4682999.81,
+      "price": 0.2834
+    },
+    {
+      "symbol": "PSG",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 4461939.26,
+      "price": 1.027
+    },
+    {
+      "symbol": "TWT",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 4430397.65,
+      "price": 0.5097
+    },
+    {
+      "symbol": "MOVR",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 4227498.89,
+      "price": 2.841
+    },
+    {
+      "symbol": "AR",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 4142082.77,
+      "price": 2.33
+    },
+    {
+      "symbol": "UMA",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 4022675.61,
+      "price": 0.54
+    },
+    {
+      "symbol": "ZRO",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 3906228.76,
+      "price": 1.511
+    },
+    {
+      "symbol": "W",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 3895925.92,
+      "price": 0.0157
+    },
+    {
+      "symbol": "MANTA",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 3822255.46,
+      "price": 0.08174
+    },
+    {
+      "symbol": "C",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 3784733.99,
+      "price": 0.0896
+    },
+    {
+      "symbol": "JTO",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 3768740.11,
+      "price": 0.5153
+    },
+    {
+      "symbol": "ZEN",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 3691405.55,
+      "price": 6.737
+    },
+    {
+      "symbol": "THETA",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 3680233.58,
+      "price": 0.255
+    },
+    {
+      "symbol": "S",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 3677889.5,
+      "price": 0.05104
+    },
+    {
+      "symbol": "REZ",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 3620221.78,
+      "price": 0.00694
+    },
+    {
+      "symbol": "FLOKI",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 3619578.88,
+      "price": 3.6e-05
+    },
+    {
+      "symbol": "RIF",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 3585855.67,
+      "price": 0.0782
+    },
+    {
+      "symbol": "KAT",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 3565327.61,
+      "price": 0.01014
+    },
+    {
+      "symbol": "NIGHT",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 3478673.36,
+      "price": 0.03603
+    },
+    {
+      "symbol": "PLUME",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 3200218.45,
+      "price": 0.01476
+    },
+    {
+      "symbol": "IOTA",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 3189690.28,
+      "price": 0.064
+    },
+    {
+      "symbol": "BERA",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 3168867.81,
+      "price": 0.405
+    },
+    {
+      "symbol": "PIXEL",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 3095664.02,
+      "price": 0.00915
+    },
+    {
+      "symbol": "OG",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 3034018.12,
+      "price": 3.711
+    },
+    {
+      "symbol": "TST",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 2878237.83,
+      "price": 0.02035
+    },
+    {
+      "symbol": "ENJ",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 2779833.61,
+      "price": 0.04899
+    },
+    {
+      "symbol": "NEIRO",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 2718736.59,
+      "price": 0.000101
+    },
+    {
+      "symbol": "STRK",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 2703961.74,
+      "price": 0.0493
+    },
+    {
+      "symbol": "EDU",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 2668148.74,
+      "price": 0.0526
+    },
+    {
+      "symbol": "API3",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 2655963.11,
+      "price": 0.3863
+    },
+    {
+      "symbol": "JASMY",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 2640725.22,
+      "price": 0.00705
+    },
+    {
+      "symbol": "ORCA",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 2593379.22,
+      "price": 1.607
+    },
+    {
+      "symbol": "EUL",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 2588016.84,
+      "price": 1.558
+    },
+    {
+      "symbol": "WIF",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 2462492.96,
+      "price": 0.227
+    },
+    {
+      "symbol": "SKY",
+      "tier": 5,
+      "collateral_rate": 0.2,
+      "volume_24h": 2460342.38,
+      "price": 0.0754
+    },
+    {
+      "symbol": "JST",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 2450803.88,
+      "price": 0.08937
+    },
+    {
+      "symbol": "VET",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 2393666.83,
+      "price": 0.007694
+    },
+    {
+      "symbol": "TNSR",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 2356547.3,
+      "price": 0.0451
+    },
+    {
+      "symbol": "BABY",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 2343074.75,
+      "price": 0.0174
+    },
+    {
+      "symbol": "CVX",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 2285518.98,
+      "price": 2.07
+    },
+    {
+      "symbol": "HUMA",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 2249676.58,
+      "price": 0.02398
+    },
+    {
+      "symbol": "AUDIO",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 2237643.02,
+      "price": 0.02121
+    },
+    {
+      "symbol": "GUN",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 2197156.75,
+      "price": 0.01565
+    },
+    {
+      "symbol": "ZK",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 2187238.95,
+      "price": 0.01844
+    },
+    {
+      "symbol": "YGG",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 2152145.48,
+      "price": 0.04469
+    },
+    {
+      "symbol": "MUBARAK",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 2145459.09,
+      "price": 0.0167
+    },
+    {
+      "symbol": "VANA",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 2131832.87,
+      "price": 1.707
+    },
+    {
+      "symbol": "AMP",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 2130903.13,
+      "price": 0.000921
+    },
+    {
+      "symbol": "COMP",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 2092957.61,
+      "price": 24.72
+    },
+    {
+      "symbol": "PNUT",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 2084006.42,
+      "price": 0.0615
+    },
+    {
+      "symbol": "GRT",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 2083213.88,
+      "price": 0.02877
+    },
+    {
+      "symbol": "SAND",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 2080313.4,
+      "price": 0.0806
+    },
+    {
+      "symbol": "BANK",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 2051251.52,
+      "price": 0.043
+    },
+    {
+      "symbol": "SXT",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 2013797.15,
+      "price": 0.01483
+    },
+    {
+      "symbol": "ZAMA",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 2004407.3,
+      "price": 0.02945
+    },
+    {
+      "symbol": "NIL",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1986199.82,
+      "price": 0.06052
+    },
+    {
+      "symbol": "TREE",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1953649.53,
+      "price": 0.0744
+    },
+    {
+      "symbol": "EIGEN",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1948771.6,
+      "price": 0.2192
+    },
+    {
+      "symbol": "OPEN",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1919157.35,
+      "price": 0.1967
+    },
+    {
+      "symbol": "HEMI",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1917991.23,
+      "price": 0.00879
+    },
+    {
+      "symbol": "WAL",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1909978.93,
+      "price": 0.0866
+    },
+    {
+      "symbol": "ME",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1872691.66,
+      "price": 0.1182
+    },
+    {
+      "symbol": "HOME",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1872081.33,
+      "price": 0.01631
+    },
+    {
+      "symbol": "HOLO",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1850865.67,
+      "price": 0.0828
+    },
+    {
+      "symbol": "MANTRA",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1809569.62,
+      "price": 0.01149
+    },
+    {
+      "symbol": "ALCX",
+      "tier": 5,
+      "collateral_rate": null,
+      "volume_24h": 1801523.99,
+      "price": 5.49
+    },
+    {
+      "symbol": "ARPA",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1768162.77,
+      "price": 0.01105
+    },
+    {
+      "symbol": "IO",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1747443.4,
+      "price": 0.1526
+    },
+    {
+      "symbol": "BEL",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1716951.48,
+      "price": 0.1219
+    },
+    {
+      "symbol": "STX",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1670239.66,
+      "price": 0.2653
+    },
+    {
+      "symbol": "KMNO",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1632314.1,
+      "price": 0.02608
+    },
+    {
+      "symbol": "NEO",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1631577.59,
+      "price": 3.206
+    },
+    {
+      "symbol": "RARE",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1630332.14,
+      "price": 0.019
+    },
+    {
+      "symbol": "SUSHI",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1606728.9,
+      "price": 0.2456
+    },
+    {
+      "symbol": "EURI",
+      "tier": 5,
+      "collateral_rate": 0.2,
+      "volume_24h": 1598338.39,
+      "price": 1.1746
+    },
+    {
+      "symbol": "RAY",
+      "tier": 5,
+      "collateral_rate": 0.4,
+      "volume_24h": 1582232.34,
+      "price": 0.83
+    },
+    {
+      "symbol": "SYS",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1579032.1,
+      "price": 0.01052
+    },
+    {
+      "symbol": "CITY",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1559328.07,
+      "price": 0.586
+    },
+    {
+      "symbol": "SOLV",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1555364.69,
+      "price": 0.00489
+    },
+    {
+      "symbol": "BOME",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1537114.25,
+      "price": 0.00062
+    },
+    {
+      "symbol": "BROCCOLI714",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1518333.89,
+      "price": 0.01723
+    },
+    {
+      "symbol": "LINEA",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1514784.07,
+      "price": 0.00394
+    },
+    {
+      "symbol": "D",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1492772.34,
+      "price": 0.01447
+    },
+    {
+      "symbol": "BLUR",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1450330.56,
+      "price": 0.02725
+    },
+    {
+      "symbol": "AXS",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1437606.53,
+      "price": 1.395
+    },
+    {
+      "symbol": "CYBER",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1424003.95,
+      "price": 0.572
+    },
+    {
+      "symbol": "XAI",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1422336.7,
+      "price": 0.01239
+    },
+    {
+      "symbol": "BANANA",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1421124.15,
+      "price": 4.32
+    },
+    {
+      "symbol": "BAR",
+      "tier": 5,
+      "collateral_rate": null,
+      "volume_24h": 1414219.65,
+      "price": 0.442
+    },
+    {
+      "symbol": "KAITO",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1397693.08,
+      "price": 0.4829
+    },
+    {
+      "symbol": "SOPH",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1385779.53,
+      "price": 0.00969
+    },
+    {
+      "symbol": "ASTR",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1384283.42,
+      "price": 0.009144
+    },
+    {
+      "symbol": "WCT",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1344067.04,
+      "price": 0.0756
+    },
+    {
+      "symbol": "QTUM",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1340003.2,
+      "price": 1.024
+    },
+    {
+      "symbol": "FORM",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1324676.9,
+      "price": 0.2948
+    },
+    {
+      "symbol": "CETUS",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1316633.3,
+      "price": 0.03494
+    },
+    {
+      "symbol": "MORPHO",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1310931.99,
+      "price": 2.092
+    },
+    {
+      "symbol": "BREV",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1303311.19,
+      "price": 0.1359
+    },
+    {
+      "symbol": "POLYX",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1297697.16,
+      "price": 0.054
+    },
+    {
+      "symbol": "LUNA",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1296436.72,
+      "price": 0.0708
+    },
+    {
+      "symbol": "EDEN",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1296393.99,
+      "price": 0.0429
+    },
+    {
+      "symbol": "ROSE",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1256853.31,
+      "price": 0.01126
+    },
+    {
+      "symbol": "CFX",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1247373.8,
+      "price": 0.06513
+    },
+    {
+      "symbol": "ALLO",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1243208.51,
+      "price": 0.0949
+    },
+    {
+      "symbol": "USUAL",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1222313.84,
+      "price": 0.01623
+    },
+    {
+      "symbol": "2Z",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1221180.53,
+      "price": 0.10424
+    },
+    {
+      "symbol": "PHA",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1215767.69,
+      "price": 0.0393
+    },
+    {
+      "symbol": "SYRUP",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1212763.15,
+      "price": 0.2502
+    },
+    {
+      "symbol": "XEC",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1198908.38,
+      "price": 8e-06
+    },
+    {
+      "symbol": "ANKR",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1186575.99,
+      "price": 0.00529
+    },
+    {
+      "symbol": "NMR",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1179979.37,
+      "price": 9.34
+    },
+    {
+      "symbol": "ALT",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1178464.82,
+      "price": 0.0082
+    },
+    {
+      "symbol": "DYDX",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1156380.29,
+      "price": 0.16334
+    },
+    {
+      "symbol": "0G",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1155550.89,
+      "price": 0.564
+    },
+    {
+      "symbol": "SSV",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1141350.1,
+      "price": 3.136
+    },
+    {
+      "symbol": "USTC",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1139381.94,
+      "price": 0.00765
+    },
+    {
+      "symbol": "AI",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1120400.59,
+      "price": 0.0239
+    },
+    {
+      "symbol": "MITO",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1104911.71,
+      "price": 0.07041
+    },
+    {
+      "symbol": "PHB",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1098872.29,
+      "price": 0.129
+    },
+    {
+      "symbol": "SCR",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1090532.07,
+      "price": 0.05408
+    },
+    {
+      "symbol": "THE",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1077956.83,
+      "price": 0.1095
+    },
+    {
+      "symbol": "ARKM",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1071517.6,
+      "price": 0.137
+    },
+    {
+      "symbol": "ACE",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1066253.77,
+      "price": 0.139
+    },
+    {
+      "symbol": "OPN",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1064915.47,
+      "price": 0.1947
+    },
+    {
+      "symbol": "DEXE",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1060646.28,
+      "price": 12.796
+    },
+    {
+      "symbol": "ACH",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1059641.11,
+      "price": 0.00843
+    },
+    {
+      "symbol": "RONIN",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1058091.8,
+      "price": 0.1114
+    },
+    {
+      "symbol": "NOM",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1058055.81,
+      "price": 0.00261
+    },
+    {
+      "symbol": "LPT",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1051491.46,
+      "price": 2.324
+    },
+    {
+      "symbol": "RESOLV",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1033624.47,
+      "price": 0.0342
+    },
+    {
+      "symbol": "PYTH",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1032507.08,
+      "price": 0.0569
+    },
+    {
+      "symbol": "PYR",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1018423.78,
+      "price": 0.291
+    },
+    {
+      "symbol": "APE",
+      "tier": 5,
+      "collateral_rate": 0.4,
+      "volume_24h": 1016828.7,
+      "price": 0.1582
+    },
+    {
+      "symbol": "AIXBT",
+      "tier": 5,
+      "collateral_rate": 0.3,
+      "volume_24h": 1010196.39,
+      "price": 0.0335
+    },
+    {
+      "symbol": "AVNT",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1009823.62,
+      "price": 0.1614
+    },
+    {
+      "symbol": "MBOX",
+      "tier": 5,
+      "collateral_rate": 0.1,
+      "volume_24h": 1001870.54,
+      "price": 0.0129
+    }
+  ]
+}
