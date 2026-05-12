@@ -1,0 +1,2664 @@
+[
+  {
+    "asset": "USDC",
+    "collateralRate": "0.9999",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.0001"
+  },
+  {
+    "asset": "USDT",
+    "collateralRate": "0.9999",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.0001"
+  },
+  {
+    "asset": "BTC",
+    "collateralRate": "0.9500",
+    "updateTime": 1778137231064,
+    "riskBasedLiquidationRatio": "0.1",
+    "tieredLiquidationRatio": [
+      {
+        "tierFloor": "0.0000",
+        "tierCap": "2000000.0000",
+        "liquidationRatio": "0.0500",
+        "cum": "0.0000"
+      },
+      {
+        "tierFloor": "2000000.0000",
+        "tierCap": "99999999999.0000",
+        "liquidationRatio": "0.1000",
+        "cum": "100000.0000"
+      }
+    ]
+  },
+  {
+    "asset": "ETH",
+    "collateralRate": "0.9500",
+    "updateTime": 1778137225773,
+    "riskBasedLiquidationRatio": "0.1",
+    "tieredLiquidationRatio": [
+      {
+        "tierFloor": "0.0000",
+        "tierCap": "2000000.0000",
+        "liquidationRatio": "0.0500",
+        "cum": "0.0000"
+      },
+      {
+        "tierFloor": "2000000.0000",
+        "tierCap": "99999999999.0000",
+        "liquidationRatio": "0.1000",
+        "cum": "100000.0000"
+      }
+    ]
+  },
+  {
+    "asset": "BNB",
+    "collateralRate": "0.9500",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.1"
+  },
+  {
+    "asset": "DOGE",
+    "collateralRate": "0.8500",
+    "updateTime": 1778220758505,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "LINK",
+    "collateralRate": "0.7000",
+    "updateTime": 1778220367383,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "ADA",
+    "collateralRate": "0.9000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "LTC",
+    "collateralRate": "0.7000",
+    "updateTime": 1778220443306,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "DOT",
+    "collateralRate": "0.5000",
+    "updateTime": 1778220555161,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "AAVE",
+    "collateralRate": "0.7000",
+    "updateTime": 1778220436987,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "SOL",
+    "collateralRate": "0.8500",
+    "updateTime": 1778220845830,
+    "riskBasedLiquidationRatio": "0.1"
+  },
+  {
+    "asset": "FTT",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PAXG",
+    "collateralRate": "0.6000",
+    "updateTime": 1772785825404,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "XRP",
+    "collateralRate": "0.8500",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "XLM",
+    "collateralRate": "0.5000",
+    "updateTime": 1778220497953,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "ATOM",
+    "collateralRate": "0.5000",
+    "updateTime": 1778494725147,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "XTZ",
+    "collateralRate": "0.1000",
+    "updateTime": 1773382483009,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BCH",
+    "collateralRate": "0.5000",
+    "updateTime": 1778220532891,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "ALGO",
+    "collateralRate": "0.5000",
+    "updateTime": 1778494711773,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "CRV",
+    "collateralRate": "0.5000",
+    "updateTime": 1769148388671,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "SUSHI",
+    "collateralRate": "0.3000",
+    "updateTime": 1777615688481,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "UNI",
+    "collateralRate": "0.6000",
+    "updateTime": 1778220525090,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "MANA",
+    "collateralRate": "0.3000",
+    "updateTime": 1778494857650,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "NEAR",
+    "collateralRate": "0.7000",
+    "updateTime": 1769150342642,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "SHIB",
+    "collateralRate": "0.5000",
+    "updateTime": 1778220506920,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "ONT",
+    "collateralRate": "0.1000",
+    "updateTime": 1772172455075,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ETC",
+    "collateralRate": "0.5000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "NEO",
+    "collateralRate": "0.1000",
+    "updateTime": 1772863780369,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "DASH",
+    "collateralRate": "0.3000",
+    "updateTime": 1769753363039,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ZEC",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BAT",
+    "collateralRate": "0.1000",
+    "updateTime": 1773382396064,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "VET",
+    "collateralRate": "0.1000",
+    "updateTime": 1772863787403,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "QTUM",
+    "collateralRate": "0.1000",
+    "updateTime": 1772172268424,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ONE",
+    "collateralRate": "0.1000",
+    "updateTime": 1769753742390,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ANKR",
+    "collateralRate": "0.1000",
+    "updateTime": 1773382421019,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "IOTX",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "HBAR",
+    "collateralRate": "0.7000",
+    "updateTime": 1778220451801,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "THETA",
+    "collateralRate": "0.3000",
+    "updateTime": 1778494900493,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "COMP",
+    "collateralRate": "0.3000",
+    "updateTime": 1770962782997,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SNX",
+    "collateralRate": "0.1000",
+    "updateTime": 1773382426884,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "AVAX",
+    "collateralRate": "0.7000",
+    "updateTime": 1778220422217,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "SAND",
+    "collateralRate": "0.1000",
+    "updateTime": 1778494892007,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "CHZ",
+    "collateralRate": "0.1000",
+    "updateTime": 1778494771315,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "COTI",
+    "collateralRate": "0.1000",
+    "updateTime": 1769753755688,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "FET",
+    "collateralRate": "0.5000",
+    "updateTime": 1770358520821,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "GRT",
+    "collateralRate": "0.3000",
+    "updateTime": 1777615649259,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "KSM",
+    "collateralRate": "0.3000",
+    "updateTime": 1770962798243,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "STX",
+    "collateralRate": "0.3000",
+    "updateTime": 1777615757530,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "ENJ",
+    "collateralRate": "0.3000",
+    "updateTime": 1769753654666,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "RUNE",
+    "collateralRate": "0.3000",
+    "updateTime": 1778494884221,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "EGLD",
+    "collateralRate": "0.3000",
+    "updateTime": 1778494797542,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "CAKE",
+    "collateralRate": "0.5000",
+    "updateTime": 1777011241235,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "FLOW",
+    "collateralRate": "0.1000",
+    "updateTime": 1768544679403,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "AR",
+    "collateralRate": "0.3000",
+    "updateTime": 1770962806317,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "DYDX",
+    "collateralRate": "0.1000",
+    "updateTime": 1772863796345,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "AXS",
+    "collateralRate": "0.3000",
+    "updateTime": 1778494751434,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ENS",
+    "collateralRate": "0.5000",
+    "updateTime": 1778494812207,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "ALICE",
+    "collateralRate": "0.1000",
+    "updateTime": 1773382437912,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ICP",
+    "collateralRate": "0.3000",
+    "updateTime": 1769753368812,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "C98",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "GALA",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "RAY",
+    "collateralRate": "0.4000",
+    "updateTime": 1769753583747,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "XEC",
+    "collateralRate": "0.1000",
+    "updateTime": 1772172327132,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "LPT",
+    "collateralRate": "0.1000",
+    "updateTime": 1772172349391,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ICX",
+    "collateralRate": "0.1000",
+    "updateTime": 1773382448951,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "CELO",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "QNT",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "IOST",
+    "collateralRate": "0.1000",
+    "updateTime": 1772172444836,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "IOTA",
+    "collateralRate": "0.1000",
+    "updateTime": 1770962942927,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "RVN",
+    "collateralRate": "0.1000",
+    "updateTime": 1773382517558,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ZIL",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "KNC",
+    "collateralRate": "0.1000",
+    "updateTime": 1770962860284,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "KAVA",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "FIL",
+    "collateralRate": "0.5000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "CHR",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ROSE",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SKL",
+    "collateralRate": "0.3000",
+    "updateTime": 1769753598733,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "1INCH",
+    "collateralRate": "0.3000",
+    "updateTime": 1770962777239,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "AUDIO",
+    "collateralRate": "0.1000",
+    "updateTime": 1768543872143,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "HIVE",
+    "collateralRate": "0.1000",
+    "updateTime": 1772172474088,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MBOX",
+    "collateralRate": "0.1000",
+    "updateTime": 1772172549879,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "WAXP",
+    "collateralRate": "0.1000",
+    "updateTime": 1770358004305,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MINA",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "DUSK",
+    "collateralRate": "0.1000",
+    "updateTime": 1770962866441,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "HOT",
+    "collateralRate": "0.1000",
+    "updateTime": 1773382399525,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "YGG",
+    "collateralRate": "0.1000",
+    "updateTime": 1772172407238,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "FLUX",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PEOPLE",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PYR",
+    "collateralRate": "0.1000",
+    "updateTime": 1768544501383,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "TWT",
+    "collateralRate": "0.1000",
+    "updateTime": 1769149170099,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "NEXO",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "WOO",
+    "collateralRate": "0.1000",
+    "updateTime": 1772863747327,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SUPER",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MASK",
+    "collateralRate": "0.1000",
+    "updateTime": 1773382500852,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "TLM",
+    "collateralRate": "0.1000",
+    "updateTime": 1770358176033,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "RAD",
+    "collateralRate": "0.1000",
+    "updateTime": 1768544541102,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "CVC",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "GMT",
+    "collateralRate": "0.3000",
+    "updateTime": 1778494845521,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "APE",
+    "collateralRate": "0.4000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "ASTR",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "TRX",
+    "collateralRate": "0.5000",
+    "updateTime": 1778220354101,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "GTC",
+    "collateralRate": "0.1000",
+    "updateTime": 1772863783961,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "WIN",
+    "collateralRate": "0.1000",
+    "updateTime": 1768544692166,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SFP",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MTL",
+    "collateralRate": "0.1000",
+    "updateTime": 1772172484154,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SUN",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "TFUEL",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SLP",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "POND",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "JASMY",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "QUICK",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "AGLD",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BICO",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "RARE",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "QI",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MBL",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "API3",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "CTK",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "OP",
+    "collateralRate": "0.5000",
+    "updateTime": 1778494873435,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "CELR",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SC",
+    "collateralRate": "0.1000",
+    "updateTime": 1768543835426,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ZRX",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BAND",
+    "collateralRate": "0.1000",
+    "updateTime": 1770358157863,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "RLC",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "YFI",
+    "collateralRate": "0.1000",
+    "updateTime": 1770962908083,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "STORJ",
+    "collateralRate": "0.1000",
+    "updateTime": 1770358143137,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "TRB",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "RSR",
+    "collateralRate": "0.1000",
+    "updateTime": 1772863799468,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "DGB",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ARPA",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "INJ",
+    "collateralRate": "0.4000",
+    "updateTime": 1777615721768,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "CTSI",
+    "collateralRate": "0.1500",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "OGN",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "DODO",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ATA",
+    "collateralRate": "0.1000",
+    "updateTime": 1770962873755,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "LUNA",
+    "collateralRate": "0.3000",
+    "updateTime": 1769753593084,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ZEN",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BEL",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "IMX",
+    "collateralRate": "0.3000",
+    "updateTime": 1769753665709,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "CVX",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "FIDA",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "LDO",
+    "collateralRate": "0.5000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "AUCTION",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SPELL",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "STG",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "AVA",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "LUNC",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "DEXE",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PHB",
+    "collateralRate": "0.1000",
+    "updateTime": 1772863815828,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SANTOS",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "GLM",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "USTC",
+    "collateralRate": "0.1000",
+    "updateTime": 1769150104136,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "HIGH",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "GMX",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "LAZIO",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PORTO",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ACH",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "NMR",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "STRAX",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "JST",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "APT",
+    "collateralRate": "0.3000",
+    "updateTime": 1778494742918,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "POLYX",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "REQ",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PHA",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "OSMO",
+    "collateralRate": "0.1000",
+    "updateTime": 1768544585440,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "GLMR",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "GAS",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PUNDIX",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MAGIC",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "T",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "HFT",
+    "collateralRate": "0.3000",
+    "updateTime": 1769753702583,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "CFX",
+    "collateralRate": "0.3000",
+    "updateTime": 1777615768930,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "SSV",
+    "collateralRate": "0.3000",
+    "updateTime": 1770962968912,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "CKB",
+    "collateralRate": "0.3000",
+    "updateTime": 1770962980050,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "LQTY",
+    "collateralRate": "0.1000",
+    "updateTime": 1770358171208,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "USDP",
+    "collateralRate": "0.9000",
+    "updateTime": 1773305029956,
+    "riskBasedLiquidationRatio": "0.025"
+  },
+  {
+    "asset": "GNS",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "JOE",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "RIF",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SYN",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ARB",
+    "collateralRate": "0.5000",
+    "updateTime": 1778220548264,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "ID",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "XVS",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BLUR",
+    "collateralRate": "0.3000",
+    "updateTime": 1769753714074,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "EDU",
+    "collateralRate": "0.1000",
+    "updateTime": 1772863804590,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SUI",
+    "collateralRate": "0.7000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "FLOKI",
+    "collateralRate": "0.3000",
+    "updateTime": 1769149192060,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "PEPE",
+    "collateralRate": "0.5000",
+    "updateTime": 1778220516354,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "UMA",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MAV",
+    "collateralRate": "0.1000",
+    "updateTime": 1770962889635,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PENDLE",
+    "collateralRate": "0.5000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "ARKM",
+    "collateralRate": "0.1000",
+    "updateTime": 1772863764925,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "WLD",
+    "collateralRate": "0.3000",
+    "updateTime": 1778494919589,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "FDUSD",
+    "collateralRate": "0.9900",
+    "updateTime": 1773305033886,
+    "riskBasedLiquidationRatio": "0.025"
+  },
+  {
+    "asset": "BNT",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "RPL",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SEI",
+    "collateralRate": "0.4000",
+    "updateTime": 1770962740182,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "CYBER",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ARK",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "VTHO",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "WBETH",
+    "collateralRate": "0.9500",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.1"
+  },
+  {
+    "asset": "BIGTIME",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "POWR",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "TIA",
+    "collateralRate": "0.3000",
+    "updateTime": 1777615691707,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "ONG",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "STEEM",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MEME",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ILV",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ORDI",
+    "collateralRate": "0.1000",
+    "updateTime": 1769150114224,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SCRT",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MOVR",
+    "collateralRate": "0.1000",
+    "updateTime": 1770358135062,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BEAMX",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "OG",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "AMP",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "FARM",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PYTH",
+    "collateralRate": "0.3000",
+    "updateTime": 1770962820864,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "LSK",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "VIC",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "COS",
+    "collateralRate": "0.1000",
+    "updateTime": 1770358146979,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SYS",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "VANRY",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "JTO",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "GNO",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BTTC",
+    "collateralRate": "0.1000",
+    "updateTime": 1768544650068,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "1000SATS",
+    "collateralRate": "0.1000",
+    "updateTime": 1772172539218,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BONK",
+    "collateralRate": "0.5000",
+    "updateTime": 1778220541421,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "ACE",
+    "collateralRate": "0.1000",
+    "updateTime": 1772863772844,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "AEUR",
+    "collateralRate": "0.2000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "DIA",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "NFP",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "AI",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "XAI",
+    "collateralRate": "0.1000",
+    "updateTime": 1772863776473,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MANTA",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "WIF",
+    "collateralRate": "0.1000",
+    "updateTime": 1778494908114,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "ONDO",
+    "collateralRate": "0.5000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "ALT",
+    "collateralRate": "0.3000",
+    "updateTime": 1769753866306,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PROM",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "TKO",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "JUP",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "RONIN",
+    "collateralRate": "0.3000",
+    "updateTime": 1769753696451,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "DYM",
+    "collateralRate": "0.3000",
+    "updateTime": 1770357995578,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PIXEL",
+    "collateralRate": "0.3000",
+    "updateTime": 1769753858636,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "STRK",
+    "collateralRate": "0.3000",
+    "updateTime": 1770358537351,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "IQ",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ADX",
+    "collateralRate": "0.1000",
+    "updateTime": 1768544594252,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PORTAL",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "TON",
+    "collateralRate": "0.6000",
+    "updateTime": 1770357891993,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "AXL",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "XNO",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "CITY",
+    "collateralRate": "0.1000",
+    "updateTime": 1768544601696,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ACM",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "DCR",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ALPINE",
+    "collateralRate": "0.1000",
+    "updateTime": 1770358138919,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PSG",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "QKC",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "METIS",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "AEVO",
+    "collateralRate": "0.1000",
+    "updateTime": 1773382472394,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BOME",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ETHFI",
+    "collateralRate": "0.5000",
+    "updateTime": 1777011248209,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "WBTC",
+    "collateralRate": "0.6000",
+    "updateTime": 1777011234540,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "MLN",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ENA",
+    "collateralRate": "0.6000",
+    "updateTime": 1770357901864,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "W",
+    "collateralRate": "0.3000",
+    "updateTime": 1777615782011,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "ASR",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ATM",
+    "collateralRate": "0.1000",
+    "updateTime": 1768544618788,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "JUV",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "TNSR",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SAGA",
+    "collateralRate": "0.3000",
+    "updateTime": 1769753854100,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "TAO",
+    "collateralRate": "0.5000",
+    "updateTime": 1777011288414,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "REZ",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BB",
+    "collateralRate": "0.3000",
+    "updateTime": 1770962974588,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "NOT",
+    "collateralRate": "0.1000",
+    "updateTime": 1772172433466,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "TURBO",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "IO",
+    "collateralRate": "0.1000",
+    "updateTime": 1770358116598,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ZK",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "LISTA",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ZRO",
+    "collateralRate": "0.3000",
+    "updateTime": 1777615702037,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "G",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BANANA",
+    "collateralRate": "0.1000",
+    "updateTime": 1772863756617,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "RENDER",
+    "collateralRate": "0.5000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "DOGS",
+    "collateralRate": "0.3000",
+    "updateTime": 1778494787131,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "EURI",
+    "collateralRate": "0.2000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "POL",
+    "collateralRate": "0.5000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "NEIRO",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "1MBABYDOGE",
+    "collateralRate": "0.2000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "CATI",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "HMSTR",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "EIGEN",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BNSOL",
+    "collateralRate": "0.8500",
+    "updateTime": 1778220852369,
+    "riskBasedLiquidationRatio": "0.1"
+  },
+  {
+    "asset": "LUMIA",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SCR",
+    "collateralRate": "0.1000",
+    "updateTime": 1772172400309,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "EUR",
+    "collateralRate": "0.0000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.0001"
+  },
+  {
+    "asset": "KAIA",
+    "collateralRate": "0.1000",
+    "updateTime": 1772172359738,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "COW",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "CETUS",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PNUT",
+    "collateralRate": "0.1000",
+    "updateTime": 1773382494869,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ACT",
+    "collateralRate": "0.1000",
+    "updateTime": 1768543860008,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BFUSD",
+    "collateralRate": "0.9990",
+    "updateTime": 1778494761112,
+    "riskBasedLiquidationRatio": "0.0001"
+  },
+  {
+    "asset": "JPY",
+    "collateralRate": "0.0000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.0001"
+  },
+  {
+    "asset": "TRY",
+    "collateralRate": "0.0000",
+    "updateTime": 1773305024991,
+    "riskBasedLiquidationRatio": "0.05"
+  },
+  {
+    "asset": "THE",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MORPHO",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ACX",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ORCA",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MOVE",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "VIRTUAL",
+    "collateralRate": "0.5000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "ME",
+    "collateralRate": "0.1000",
+    "updateTime": 1772172450373,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "VELODROME",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "VANA",
+    "collateralRate": "0.1000",
+    "updateTime": 1770358015084,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "1000CAT",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PENGU",
+    "collateralRate": "0.5000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "USUAL",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "KMNO",
+    "collateralRate": "0.1000",
+    "updateTime": 1770962850964,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "AIXBT",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "CGPT",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BIO",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "COOKIE",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "D",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "S",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SOLV",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "TRUMP",
+    "collateralRate": "0.3000",
+    "updateTime": 1777011259546,
+    "riskBasedLiquidationRatio": "0.4"
+  },
+  {
+    "asset": "ANIME",
+    "collateralRate": "0.1000",
+    "updateTime": 1770358129932,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BERA",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "TST",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "1000CHEEMS",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "LAYER",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "HEI",
+    "collateralRate": "0.1000",
+    "updateTime": 1770962930114,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SHELL",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "GPS",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "KAITO",
+    "collateralRate": "0.1000",
+    "updateTime": 1772863768829,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BRL",
+    "collateralRate": "0.0000",
+    "updateTime": 1773305005890,
+    "riskBasedLiquidationRatio": "0.05"
+  },
+  {
+    "asset": "RED",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "EPIC",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BMT",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MUBARAK",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "FORM",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "TUT",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BROCCOLI714",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BANANAS31",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PLUME",
+    "collateralRate": "0.1000",
+    "updateTime": 1772172303485,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "NIL",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PARTI",
+    "collateralRate": "0.1000",
+    "updateTime": 1772863792987,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "WAL",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "GUN",
+    "collateralRate": "0.1000",
+    "updateTime": 1772863822310,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BABY",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "LDUSDT",
+    "collateralRate": "0.9990",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.0001"
+  },
+  {
+    "asset": "ARS",
+    "collateralRate": "0.0000",
+    "updateTime": 1773304999370,
+    "riskBasedLiquidationRatio": "0.05"
+  },
+  {
+    "asset": "PUMP",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "STO",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "KERNEL",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "WCT",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "INIT",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BANK",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "HYPER",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SIGN",
+    "collateralRate": "0.1000",
+    "updateTime": 1772172386283,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "DOLO",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "HAEDAL",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SXT",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SYRUP",
+    "collateralRate": "0.1000",
+    "updateTime": 1772863811666,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "NXPC",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "AWE",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "USD1",
+    "collateralRate": "0.9999",
+    "updateTime": 1778127656551,
+    "riskBasedLiquidationRatio": "0.0001"
+  },
+  {
+    "asset": "HUMA",
+    "collateralRate": "0.1000",
+    "updateTime": 1772863790364,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "A",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SOPH",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "LA",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "HOME",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "RESOLV",
+    "collateralRate": "0.1000",
+    "updateTime": 1772172468889,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SPK",
+    "collateralRate": "0.1000",
+    "updateTime": 1770962897133,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "F",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "NEWT",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SAHARA",
+    "collateralRate": "0.2500",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "C",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ERA",
+    "collateralRate": "0.1000",
+    "updateTime": 1772863818342,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "TREE",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "TOWNS",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PROVE",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "CUSDOX",
+    "collateralRate": "0.8500",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.0001"
+  },
+  {
+    "asset": "USYCX",
+    "collateralRate": "0.9500",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.0001"
+  },
+  {
+    "asset": "SAPIEN",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "XPL",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SOMI",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MITO",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "LINEA",
+    "collateralRate": "0.3000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "WLFI",
+    "collateralRate": "0.7000",
+    "updateTime": 1778076216419,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "OPEN",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "SKY",
+    "collateralRate": "0.2000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "USDE",
+    "collateralRate": "0.9000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.0001"
+  },
+  {
+    "asset": "AVNT",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "HOLO",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ZKC",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "0G",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BARD",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ASTER",
+    "collateralRate": "0.3000",
+    "updateTime": 1777615798945,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "HEMI",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MIRA",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "FF",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "EDEN",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "NOM",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "2Z",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "YB",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MET",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "EUL",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ENSO",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ZBT",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "币安人生",
+    "collateralRate": "0.1000",
+    "updateTime": 1767788842512,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "TURTLE",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "GIGGLE",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "RWUSD",
+    "collateralRate": "0.9990",
+    "updateTime": 1773382545619,
+    "riskBasedLiquidationRatio": "0.0001"
+  },
+  {
+    "asset": "KITE",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "AT",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MMT",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BUIDLX",
+    "collateralRate": "0.9990",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.0001"
+  },
+  {
+    "asset": "ALLO",
+    "collateralRate": "0.1000",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "USD",
+    "collateralRate": "0.9999",
+    "updateTime": 1764322904783,
+    "riskBasedLiquidationRatio": "0.0001"
+  },
+  {
+    "asset": "IDR",
+    "collateralRate": "0.0000",
+    "updateTime": 1773305012065,
+    "riskBasedLiquidationRatio": "0.05"
+  },
+  {
+    "asset": "NIGHT",
+    "collateralRate": "0.1000",
+    "updateTime": 1773232053507,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ZKP",
+    "collateralRate": "0.1000",
+    "updateTime": 1767788838948,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "BREV",
+    "collateralRate": "0.1000",
+    "updateTime": 1767699025314,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ZAMA",
+    "collateralRate": "0.1000",
+    "updateTime": 1770029888093,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "FOGO",
+    "collateralRate": "0.1000",
+    "updateTime": 1768457439827,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "U",
+    "collateralRate": "0.9500",
+    "updateTime": 1773986567827,
+    "riskBasedLiquidationRatio": "0.0001"
+  },
+  {
+    "asset": "FRAX",
+    "collateralRate": "0.1000",
+    "updateTime": 1768457447155,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "IBENJIX",
+    "collateralRate": "0.9990",
+    "updateTime": 1770881100521,
+    "riskBasedLiquidationRatio": "0.0001"
+  },
+  {
+    "asset": "SENT",
+    "collateralRate": "0.1000",
+    "updateTime": 1769078734510,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "RLUSD",
+    "collateralRate": "0.9000",
+    "updateTime": 1769153934103,
+    "riskBasedLiquidationRatio": "0.0001"
+  },
+  {
+    "asset": "MEGA",
+    "collateralRate": "0.1000",
+    "updateTime": 1777541901476,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MXN",
+    "collateralRate": "0.0000",
+    "updateTime": 1773305018685,
+    "riskBasedLiquidationRatio": "0.05"
+  },
+  {
+    "asset": "ESP",
+    "collateralRate": "0.1000",
+    "updateTime": 1770897226188,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "OPN",
+    "collateralRate": "0.1000",
+    "updateTime": 1772710353144,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "ROBO",
+    "collateralRate": "0.1000",
+    "updateTime": 1772635300051,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "KAT",
+    "collateralRate": "0.1000",
+    "updateTime": 1773835252971,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "MANTRA",
+    "collateralRate": "0.1000",
+    "updateTime": 1772606798388,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "CFG",
+    "collateralRate": "0.1000",
+    "updateTime": 1773662849258,
+    "riskBasedLiquidationRatio": "0.5"
+  },
+  {
+    "asset": "PLN",
+    "collateralRate": "0.0000",
+    "updateTime": 1773823773640,
+    "riskBasedLiquidationRatio": "0.05"
+  },
+  {
+    "asset": "XAUT",
+    "collateralRate": "0.6000",
+    "updateTime": 1774526902361,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "USDS",
+    "collateralRate": "0.7500",
+    "updateTime": 1775717953723,
+    "riskBasedLiquidationRatio": "0.2"
+  },
+  {
+    "asset": "CHIP",
+    "collateralRate": "0.1000",
+    "updateTime": 1776774853390,
+    "riskBasedLiquidationRatio": "0.5"
+  }
+]
